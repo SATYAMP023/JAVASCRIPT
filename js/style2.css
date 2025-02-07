@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#but4, #but6{
+    background-color: chartreuse;
+    border-radius: 17px;
+    height: 40px;
+    width: 135px;
+    border: none;
+    margin: 20px;
+}
+
+#but5{
+    background-color: lightgrey;
+    border-radius: 10px;
+    height: 40px;
+    width: 205px;
+    margin: 20px;
+}
