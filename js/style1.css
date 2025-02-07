@@ -1,0 +1,23 @@
+*{
+    background-color: bisque;
+}
+
+#but1, .but{
+    background-color: red;
+    margin: 50px;
+}
+
+#but4{
+    background-color: chartreuse;
+    border-radius: 17px;
+    height: 40px;
+    width: 135px;
+    border: none;
+}
+
+#but5{
+    background-color: lightgrey;
+    border-radius: 10px;
+    height: 40px;
+    width: 205px;
+}
